@@ -1,0 +1,46 @@
+{
+  "questions": [
+    {
+      "title": "Capital of France?",
+      "choices": ["Paris", "London", "Rome"],
+      "goodChoice": "Paris",
+      "point": 10
+    },
+    {
+      "title": "2 + 2 = ?",
+      "choices": ["2", "4", "5"],
+      "goodChoice": "4",
+      "point": 50
+    },
+    {  
+      "title": "What is my birthday?",
+      "choices": ["06/FEB", "12/FEB", "Who the hell know!!"], 
+      "goodChoice": "06/FEB",
+      "point": 30
+    },
+    {
+      "title": "10 * 12 = ?",
+      "choices": ["120", "150", "100"],
+      "goodChoice": "120",
+      "point": 15
+    },
+    {
+      "title": "What is the date of valentine day?",
+      "choices": ["14/FEB", "15/MAR", "12/JAN"],
+      "goodChoice": "14/FEB",
+      "point": 5
+    },
+    {
+      "title": "What is the shortcut of 'I love you'?",
+      "choices": ["ily", "imy", "ihy"],
+      "goodChoice": "ily",
+      "point": 15
+    },
+    {
+      "title": "Are you proud of yourself",
+      "choices": ["yes", "no", "maybe"],
+      "goodChoice": "maybe",
+      "point": 20
+    }
+  ]
+}
